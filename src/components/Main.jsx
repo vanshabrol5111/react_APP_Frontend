@@ -56,7 +56,7 @@ const Main = () => {
 
   
  
-  console.log(data)
+
   // const apple = data.product;
 
   return (
